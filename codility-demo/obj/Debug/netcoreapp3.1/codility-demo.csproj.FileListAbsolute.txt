@@ -1,0 +1,13 @@
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.exe
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.deps.json
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.runtimeconfig.json
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.runtimeconfig.dev.json
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.dll
+D:\REPOS\codility\codility-demo\codility-demo\bin\Debug\netcoreapp3.1\codility-demo.pdb
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.csprojAssemblyReference.cache
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.AssemblyInfoInputs.cache
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.AssemblyInfo.cs
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.csproj.CoreCompileInputs.cache
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.dll
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.pdb
+D:\REPOS\codility\codility-demo\codility-demo\obj\Debug\netcoreapp3.1\codility-demo.genruntimeconfig.cache
